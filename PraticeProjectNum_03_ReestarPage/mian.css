@@ -1,0 +1,88 @@
+.header{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:10px;
+    box-shadow: 0 0 15px red;
+}
+.header ul, li{
+    text-align:center;
+    display:inline-block;
+}
+
+.header ul{
+    margin:0px;
+    text-align:center;
+    padding:0px;
+    color:grey;
+}
+
+li:hover{
+    color:red;
+}
+
+.header h1{
+    margin:0px;
+}
+
+.dishes{
+    background-color:white;
+    margin-top:70px;
+
+}
+
+.box{
+    display:inline-block;
+    border-style:solid;
+    border-color:black;
+    padding:5px;
+    padding-bottom:80px;
+    height:270px;
+    width:220px;
+    text-align:center;
+}
+
+.box h4{
+    text-align:center;
+}
+
+.dishes{
+    text-align:center;
+}
+
+.box h3{
+    background-color:red;
+    color:black;
+    border-style:solid;
+    border-color: black;
+    border-radius:10px;
+    
+}
+
+h3:hover{
+    color:red;
+    background:greenyellow;
+}
+
+.contactus{
+    margin-top:30px;
+    padding:10px;
+    text-align:center;
+    display:block;
+    background-color: black;
+    color:white;
+}
+
+form{
+    text-align:center;
+    margin-left:40%;
+}
+
+button{
+    width:400px;
+    margin-top:15px;
+    margin-bottom:15px;
+    background-color:red;
+    color:white;
+    font-weight:bold;
+}
