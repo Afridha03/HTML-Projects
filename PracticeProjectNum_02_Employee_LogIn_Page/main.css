@@ -1,0 +1,25 @@
+body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Times New Roman', Times, serif;
+            line-height: 1.6;
+        }
+
+        .container {
+            text-align: left;
+            padding: 20px 40px;
+            border: 1px solid black;   
+            border-radius: 8px; 
+            line-height: 1.6;       
+        }
+
+        table {
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+        }
